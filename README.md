@@ -2,4 +2,7 @@
 Esse é meu primeiro sistema no GIT
 
 Minha primeira alteração
-minha segunda alteração
+
+Minha segunda alteração
+
+Minha terceira alterção
